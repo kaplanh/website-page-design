@@ -129,5 +129,42 @@
 }
 
 .container__footer img {
-height: 30px;
+  height: 30px;
+}
+
+/*!============== About  =============== */
+
+.container__article{
+ 
+}
+
+.container__article--left p:nth-child(3), .container__article--right{
+ background-color: #35424a;
+ color: #e6edf3;
+ padding: 1rem;
+
+
+}
+
+.container__article--left{
+
+height: 40%;
+text-align: justify;
+
+}
+.container__article--right{
+
+height: 40%;
+text-align: justify;
+
+}
+
+ .container__article p{
+  margin-top: 1rem;
+}
+
+.about{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
