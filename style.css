@@ -131,6 +131,7 @@
   padding: 0.5rem;
   color: #e6edf3;
   height: 10%;
+  border-top: 2px solid #a9508b;
 }
 
 .container__footer img {
@@ -198,6 +199,9 @@
   padding: 1rem;
   color: #fff;
   flex-basis: 25%;
+  border: 2px solid #a9508b;
+  outline: 2px solid #a9508b;
+  outline-offset:inset;
 }
 
 .container__article--section {
