@@ -5,7 +5,7 @@
 
 [Click Me !](kaplanh.github.io/website-page-design/)
 
-![position Web Page Design example](https://github.com/kaplanh/position-practice/assets/101884444/624f4526-2a1e-4ce8-aa66-c07897274e5d)
+![ Website Page Design](https://github.com/kaplanh/website-page-design/assets/101884444/ec8617da-1d9a-4e12-adcf-96c397578ca8)
 
 
 
