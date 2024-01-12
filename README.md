@@ -1,15 +1,18 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Project-010 : Website Page Design
+
+
+
+
+[Click Me !](https://kaplanh.github.io/Position-Example-_WebPageDesign/)
+
+![position Web Page Design example](https://github.com/kaplanh/position-practice/assets/101884444/624f4526-2a1e-4ce8-aa66-c07897274e5d)
+
+
 
 ## Description
 
 Project aims to create a website page.
 
-## Problem Statement
-
-- Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton 
 
@@ -24,53 +27,31 @@ Project aims to create a website page.
 ```
 
 
-## Objective
+### The following topics were addressed in the project;
 
-Build a Landing same as in the example images.
+-   HTML
+    - Semantic Elements
+  
+-   Css
+    -   CSS Flex box
+    -   pseudo classes (p:nth-child(n), li:first-child, a:visit, a:active, a:hover, input:focus) 
+    -   box-shadow
+    -   Units in CSS
+    -   CSS Setting height and width
+    -   CSS Combinators
 
-### At the end of the project, following topics are to be covered;
 
-- HTML 
 
-- CSS
+### At the end of the project, developers will be able to;
 
-### At the end of the project, students will be able to;
+-   improve coding skills within HTML & CSS positions
 
-- improve coding skills within HTML & CSS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Website Page Design
-
->>Part-1 HTML Structure
-
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structur of the HTML
-
->>Part-2 CSS Structure
-
-	- Set a background
-	- Set container background color and margin
-	- Define others color-size-padding etc...
-
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Deploy your application on Github template to showcase your app within your team.
+-   use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Notes
 
-- You can use HTML,and CSS to complete this project.
+-   You can use HTMLand CSS
 
-## Resources
-
--  [Images](./img)
+<center> ⌛ Happy Coding  ✍ </center>
 
 
-<p align='center'> <strong>⌛ Happy Coding  ✍ </strong></p>
