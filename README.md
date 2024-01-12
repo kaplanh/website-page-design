@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-005 : Website Page Design
+# Project-010 : Website Page Design
 
 ## Description
 
@@ -14,25 +14,15 @@ Project aims to create a website page.
 ## Project Skeleton 
 
 ```
-005-website-page-design (folder)
+010-website-page-design (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
-|----solution
-        |----index.html  
-        |----style.css   
-        |----about.html  
-        |----services.html 		
-        |----images (folder)
+|----index.html  
+|----style.css   
+|----about.html
+|----services.html 		
+|----images (folder)
 ```
 
-## Expected Outcome
-
-![Project Snapshot](Project_1.png)
-
-![Project Snapshot](Project_2.png)
-
-![Project Snapshot](Project_3.png)
 
 ## Objective
 
